@@ -1,22 +1,22 @@
 {
-  "name": "unirio",
+  "name": "unirpi-io",
   "version": "0.0.1",
   "description": "A mock implementation of RPI-IO (by gdorbes) to use a fake instance of Raspberry Pi GPIO's on any platform for Node.js",
   "keywords": [
-    "unirio",
-    "mock",
+    "unirpi-io",
     "rpi-io",
+    "mock",
     "gpio",
     "rpi",
     "raspberry-pi"
   ],
-  "homepage": "https://github.com/noahbleau/UniRIO#readme",
+  "homepage": "https://github.com/noahbleau/UniRPI-IO#readme",
   "bugs": {
-    "url": "https://github.com/noahbleau/UniRIO/issues"
+    "url": "https://github.com/noahbleau/UniRPI-IO/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noahbleau/UniRIO.git"
+    "url": "git+https://github.com/noahbleau/UniRPI-IO.git"
   },
   "license": "MIT",
   "author": "Noah Bleau <noah@hexoraw.com>",
