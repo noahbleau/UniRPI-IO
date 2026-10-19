@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=191A1B)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
-A mock implementation of [RPI-IO](https://github.com/gdorbes/rpi-io) to use a fake instance of Raspberry Pi GPIO's on any platform for Node.js
+A mock implementation of [RPI-IO (by gdorbes)](https://github.com/gdorbes/rpi-io) to use a fake instance of Raspberry Pi GPIO's on any platform for Node.js
 
 ## Installation
 
