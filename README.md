@@ -23,8 +23,8 @@ Make sure both **UniRPI-IO** and **RPI-IO** are listed in `optionalDependencies`
     ...
 },
 "optionalDependencies": {
-    "unirio": "^1.0.0",
-    "unirpi-io": "^1.0.0"
+    "unirpi-io": "^1.0.0",
+    "rpi-io": "^1.0.0"
 }
 ```
 
